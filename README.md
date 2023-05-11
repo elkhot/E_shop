@@ -1,1 +1,2 @@
-# E_shop
+# E_sho
+https://djangoelectronicshop.pythonanywhere.com/
